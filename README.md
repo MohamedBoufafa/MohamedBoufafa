@@ -1,95 +1,22 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm BOUFAFA Mohamed</h1>
+<h3 align="center">AI & Data Science Engineer | Machine Learning Researcher | Backend Developer</h3>
 
-# 👋 Hi, I'm Mohamed BOUFAFA  
-### AI & Data Science Engineer | Machine Learning Enthusiast | Backend Developer
+- I’m currently working on **A RAG (Retrieval-Augmented Generation) PDF system**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boufafa-moamed/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedBoufafa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boufafa.moamed@gmail.com)
+- I’m currently learning **Reinforcement Learning, Computer Vision (CV), and Graph Neural Networks (GNNs)**
 
-</div>
+- 📫 How to reach me **boufafa.moamed@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/boufafa-moamed" target="_blank">LinkedIn</a> |
+  <a href="https://github.com/MohamedBoufafa" target="_blank">Main GitHub</a> |
+  <a href="https://github.com/zinou123viva" target="_blank">Contributor GitHub</a>
+</p>
 
-## 🚀 About Me
 
-I'm a **5th-year Master's and State Engineer student** in Artificial Intelligence and Data Science at the Higher School of Computer Science & Engineering (Annaba, Algeria).
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-I’m passionate about designing **scalable AI systems** that bridge the gap between research and real-world applications — from **machine learning pipelines** to **intelligent backend solutions**.
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedboufafa&show_icons=true&locale=en&layout=compact" alt="mohamedboufafa" /></p>
 
-- 🔭 Currently working on **AI-Powered Career Recommendation System** using Graph Neural Networks  
-- 🌱 Learning **Advanced Deep Learning**, **NLP**, and **Computer Vision**  
-- 💡 Passionate about **MLOps**, **Backend Development**, and **Data-Driven Innovation**
-
----
-
-## 🧠 Tech Stack
-
-| Domain | Technologies |
-|--------|---------------|
-| **Programming** | Python, Git, Linux, Bash |
-| **Machine Learning** | PyTorch, TensorFlow, Keras, scikit-learn |
-| **Data Science** | Pandas, NumPy, Matplotlib, Seaborn |
-| **NLP** | Transformers (BERT), SpaCy, NLTK |
-| **Computer Vision** | OpenCV, YOLO, CRNN |
-| **Backend / Tools** | Flask, FastAPI, Docker, Streamlit, Jupyter |
-
----
-
-## 💼 Featured Projects
-
-### 🚗 [Advanced License Plate Recognition System ↗](https://huggingface.co/spaces/moamedBoufafa/license-plate-recognition)
-> *Computer Vision Engineer | Sep 2025 – Oct 2025*
-
-Developed a **real-time license plate recognition system** using YOLO and CRNN with adaptive tracking and Streamlit visualization.  
-**Tech:** PyTorch, OpenCV, YOLO, CRNN, Streamlit, Docker
-
----
-
-### 🎯 [AI-Powered Career Recommendation System ↗](https://github.com/TayebKahia/CareerConnect/commits?author=zinou123viva)
-> *Machine Learning Engineer & Technical Lead | Feb 2025 – Jun 2025*
-
-Built a **Graph Neural Network-based career recommendation platform** using PyTorch Geometric and BERT embeddings.  
-Led backend integration with Flask and team collaboration on GitHub.  
-**Tech:** PyTorch Geometric, Flask, BERT, Docker, CI/CD
-
----
-
-## 🏢 Experience
-
-**Backend Developer Intern** — *Harbour Annaba* (Sep 2024)  
-- Built and tested RESTful APIs and improved server-side efficiency.  
-- Collaborated with the team to optimize backend performance.
-
-**Team Lead – Software Development Projects** — *ESI* (Mar 2023 – May 2024)  
-- Led a 5-member team to deliver two web platforms under Agile sprints.  
-- Mentored teammates and enforced best practices in backend and version control.
-
----
-
-## 🎓 Education
-
-**Master's and State Engineer Degree in Computer Science**  
-Higher School of Computer Science & Engineering, Annaba, Algeria  
-*Sep 2021 – Present*
-
----
-
-## 🌐 Languages
-
-- **Arabic:** Native  
-- **French:** Fluent  
-- **English:** Professional  
-- **Turkish:** Intermediate  
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/boufafa-moamed/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:boufafa.moamed@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/MohamedBoufafa)
-
-</div>
